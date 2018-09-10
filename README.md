@@ -6,18 +6,19 @@ Ufo-Reports er en samling af over 80.000 reporter om møder med ufoer.
 
 I datasettet er det beskrevet, hvor der er set ufo, i hvor lang tid, hvordan ser ufoerne ud og hvad skete der.
 
-Hvilket sted er der flest der bliver bortført?
+Hvilket sted er der flest UFO observationer?
 
-Er det flest mænd eller kvinder, der bliver bortført?
+Hvordan har antallet af observationer udviklet sig over tid?
+
+Hvornår på året er der flest observationer?
 
 Hvordan ser en ufo ud?
 
-Hvor mange er blevet bortført af en ufo?
-
 Hvor lang tid kunne de se ufoen?
 
+https://github.com/planetsig/ufo-reports/tree/master/csv-data
+File: Ufo-scrubbed-geocoded-time-standardized.csv
 
-https://github.com/planetsig/ufo-reports
 
 ## Speed Dating Experiment
 
