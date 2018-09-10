@@ -1,4 +1,8 @@
 # impossible College Dataset
+Python valgfag
+Gruppe: Impossible College
+Medlemmer: Bo Henriksen, Christian Lykke, Anders Nissen
+
 
 ## UFO Reports from USA
 
