@@ -1,4 +1,4 @@
-# impossible College Dataset
+# Impossible College Dataset
 Python valgfag
 Gruppe: Impossible College
 Medlemmer: Bo Henriksen, Christian Lykke, Anders Nissen
