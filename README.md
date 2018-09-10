@@ -33,4 +33,4 @@ Hvad mener folk er vigtigt i et forhold?
 
 Hvor kommer speed datere fra?
 
-
+https://data.world/annavmontoya/speed-dating-experiment/workspace/file?filename=Speed+Dating+Data.csv
