@@ -16,8 +16,7 @@ Hvordan ser en ufo ud?
 
 Hvor lang tid kunne de se ufoen?
 
-https://github.com/planetsig/ufo-reports/tree/master/csv-data
-File: Ufo-scrubbed-geocoded-time-standardized.csv
+https://github.com/planetsig/ufo-reports/blob/master/csv-data/ufo-scrubbed-geocoded-time-standardized.csv
 
 
 ## Speed Dating Experiment
