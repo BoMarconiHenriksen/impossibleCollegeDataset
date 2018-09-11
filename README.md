@@ -25,9 +25,15 @@ https://github.com/planetsig/ufo-reports/blob/master/csv-data/ufo-scrubbed-geoco
 
 ## Speed Dating Experiment
 
-Datasettet er indsamlet over en periode på 2002 til 2004. Hver deltager har datet i 4 minutter med alle af det modsatte køn. Når alle havde datet blev deltagerne spurgt om de ville på en yderligere date. Derudover blev de også bedt om at vurder deres date på følgende områder Atraktiv, oprigtighed, inteligens, sjov, ambitiøs og samme interesser.
+Datasettet er indsamlet over en periode på 2002 til 2004. Hver deltager har datet i 4 minutter med alle af det modsatte køn. 
+
+Når alle havde datet blev deltagerne spurgt om de ville på en yderligere date. 
+
+Derudover blev de også bedt om at vurder deres date på følgende områder attraktiv, oprigtighed, inteligens, sjov, ambitiøs og samme interesser.
 
 Hvor ofte er der et match når man speed dater?
+
+Når der er et match, hvad har personen så vurderet højest(attraktiv, sjov osv.)?
 
 Hvad er gennemsnitsalderen for en speed dater?
 
