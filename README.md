@@ -66,7 +66,7 @@ https://bubinga.co/geojson-us-states-and-counties/
 
 
 #### Link til csv fil.  
-https://github.com/planetsig/ufo-reports/blob/master/csv-data/ufo-scrubbed-geocoded-time-standardized.csv
+https://raw.githubusercontent.com/planetsig/ufo-reports/master/csv-data/ufo-scrubbed-geocoded-time-standardized.csv  
 
 #### Link til dataset på kaggle.com - Få et hurtigt overblik over navnene på kolonnerne her  
 https://www.kaggle.com/NUFORC/ufo-sightings#complete.csv 
