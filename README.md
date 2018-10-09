@@ -6,27 +6,67 @@ Medlemmer: Bo Henriksen, Christian Lykke, Anders Nissen.
 
 ## UFO Reports from USA
 
-Ufo-Reports er en samling af over 80.000 reporter om møder med ufoer.
+Ufo-Reports er en samling af over 80.000 reporter om møder med ufoer. I datasettet er det beskrevet, hvor der er set ufo, i hvor lang tid, hvordan ser ufoerne ud og hvad skete der.  
 
-I datasettet er det beskrevet, hvor der er set ufo, i hvor lang tid, hvordan ser ufoerne ud og hvad skete der.
+## spørgsmål
 
-Hvilket sted er der flest UFO observationer?
+Hvilket sted er der flest UFO observationer?  
 
-Hvordan har antallet af observationer udviklet sig over tid?
+Hvordan har antallet af observationer udviklet sig over tid?  
+Som besvarelse til det her spørgsmål vil det give god mening at lave et plot. Det er valgfrit, hvordan i laver plottet.  
 
-Hvornår på året er der flest observationer?
+Hvornår på året er der flest observationer?  
 
-Hvordan ser en ufo ud?
+Hvordan ser en ufo ud?  
+Find gerne flere buzzwords som f.eks. form, farve eller andet. Her kan det være en fordel at bruge textBlob https://textblob.readthedocs.io/en/dev/  
 
-Hvor lang tid kunne de se ufoen?
+Hvor lang tid kunne de se ufoen(gennemsnit)?
 
-Link til csv fil.  
+Plot 1.  
+På hvilke dage er det sandsynligt at se ufoer(i procentvis fordeling)?  
+x i plottet er mandag til søndag.  
+y i plottet er 0 til 1.  
+
+Hints:  
+Hvor mange ufo sightings er der i alt?  
+Brug datetime når du skal finde dagene.  
+
+Plot 2.  
+Lav en graf over polaritet og sentiment.  
+x i plottet er index over observationer.  
+y i plottet er 0 til 1.  
+
+Hints:  
+Brug textBlob.  
+Får i minus tal så normaliser(fjern minus) tallene.  
+
+##### TextBlob  
+https://textblob.readthedocs.io/en/dev/  
+https://textblob.readthedocs.io/en/dev/quickstart.html#sentiment-analysis  
+
+##### State Boundaries:  
+https://github.com/jgoodall/us-maps  
+https://bubinga.co/geojson-us-states-and-counties/  
+
+Plot 3.  
+Lav et plot, der viser antallet af ufo observationer pr stat i USA, og farvekode jeres resultat. Mørk farve indiker mange observationer, og lys farve indiker få observationer.  
+
+Brug evt. følgende moduler. Har du kendskab til andre moduler må du gerne bruge dem.    
+https://pypi.org/project/folium/  
+
+State Boundaries:  
+https://github.com/jgoodall/us-maps  
+https://bubinga.co/geojson-us-states-and-counties/  
+
+
+##### Link til csv fil.  
 https://github.com/planetsig/ufo-reports/blob/master/csv-data/ufo-scrubbed-geocoded-time-standardized.csv
 
-Link til dataset  
-https://www.kaggle.com/NUFORC/ufo-sightings#complete.csv  
+##### Link til dataset på github. 
+Csv filen er taget fra github repositoryet. Der kan derfor være forskel på det som ligger på kaggle.com og i planetsig github repository https://github.com/planetsig/ufo-reports Vi andefaler at i bruger planetsig github repository til besvarelserne.  
 
-Link til dataset på github. Csv filen er taget fra github repositoryet. https://github.com/planetsig/ufo-reports  
+##### Link til dataset på kaggle.com - Få et hurtigt overblik over navnene på kolonnerne her  
+https://www.kaggle.com/NUFORC/ufo-sightings#complete.csv 
 
 
 ## Speed Dating Experiment
@@ -48,3 +88,5 @@ Hvilken Erhverv har en speed dater oftest?
 Hvad mener folk er vigtigt i et forhold?
 
 Hvor kommer speed datere fra?
+
+https://data.world/annavmontoya/speed-dating-experiment/workspace/file?filename=Speed+Dating+Data.csv
