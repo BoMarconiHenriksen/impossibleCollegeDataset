@@ -72,7 +72,7 @@ https://raw.githubusercontent.com/planetsig/ufo-reports/master/csv-data/ufo-scru
 https://www.kaggle.com/NUFORC/ufo-sightings#complete.csv 
 
 #### Link til dataset på github. 
-Csv filen er taget fra github repositoryet. Der kan derfor være forskel på det, som ligger på kaggle.com og i planetsig github repository https://github.com/planetsig/ufo-reports Vi andefaler at i bruger planetsig github repository til besvarelserne.  
+Csv filen er taget fra planetsig github repository. Der kan derfor være forskel på det, som ligger på kaggle.com og i planetsig github repository https://github.com/planetsig/ufo-reports Vi andefaler at i bruger planetsig github repository til besvarelserne.  
 
 
 -----
