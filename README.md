@@ -44,3 +44,8 @@ Hvad mener folk er vigtigt i et forhold?
 Hvor kommer speed datere fra?
 
 https://data.world/annavmontoya/speed-dating-experiment/workspace/file?filename=Speed+Dating+Data.csv
+
+Link til dataset  
+https://www.kaggle.com/NUFORC/ufo-sightings#complete.csv  
+Link til dataset på github. Csv filen er taget fra github repositoryet. https://github.com/planetsig/ufo-reports  
+
