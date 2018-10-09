@@ -18,7 +18,7 @@ Som besvarelse til det her spørgsmål vil det give god mening at lave et plot. 
 #### Hvornår på året er der flest observationer?  
 
 #### Hvordan ser en ufo ud?  
-Find flere buzzwords som f.eks. form, farve eller andet. Her kan det være en fordel at bruge textBlob https://textblob.readthedocs.io/en/dev/  
+Find flere buzzwords som f.eks. form, farve eller andet. Her kan det være en fordel at bruge textBlob.  https://textblob.readthedocs.io/en/dev/  
 
 #### Hvor lang tid kunne de se ufoen(gennemsnit)?
 
@@ -31,6 +31,8 @@ Hints:
 Hvor mange ufo sightings er der i alt?  
 Brug datetime når du skal finde dagene.  
 
+![alt text](https://github.com/BoMarconiHenriksen/impossibleCollegeDataset/blob/master/img2.jpg)
+
 #### Plot 2.  
 Lav en graf over polaritet og sentiment.  
 x i plottet er index over observationer.  
@@ -39,6 +41,8 @@ y i plottet er 0 til 1.
 Hints:  
 Brug textBlob.  
 Får i minus tal så normaliser(fjern minus) tallene.  
+
+![alt text](https://github.com/BoMarconiHenriksen/impossibleCollegeDataset/blob/master/img1.jpg)
 
 ##### TextBlob  
 https://textblob.readthedocs.io/en/dev/  
@@ -57,6 +61,8 @@ https://pypi.org/project/folium/
 State Boundaries:  
 https://github.com/jgoodall/us-maps  
 https://bubinga.co/geojson-us-states-and-counties/  
+
+![alt text](https://github.com/BoMarconiHenriksen/impossibleCollegeDataset/blob/master/img3.jpg)
 
 
 #### Link til csv fil.  
