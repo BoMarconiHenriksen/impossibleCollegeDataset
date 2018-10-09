@@ -68,13 +68,15 @@ https://bubinga.co/geojson-us-states-and-counties/
 #### Link til csv fil.  
 https://github.com/planetsig/ufo-reports/blob/master/csv-data/ufo-scrubbed-geocoded-time-standardized.csv
 
-#### Link til dataset på github. 
-Csv filen er taget fra github repositoryet. Der kan derfor være forskel på det som ligger på kaggle.com og i planetsig github repository https://github.com/planetsig/ufo-reports Vi andefaler at i bruger planetsig github repository til besvarelserne.  
-
 #### Link til dataset på kaggle.com - Få et hurtigt overblik over navnene på kolonnerne her  
 https://www.kaggle.com/NUFORC/ufo-sightings#complete.csv 
 
+#### Link til dataset på github. 
+Csv filen er taget fra github repositoryet. Der kan derfor være forskel på det, som ligger på kaggle.com og i planetsig github repository https://github.com/planetsig/ufo-reports Vi andefaler at i bruger planetsig github repository til besvarelserne.  
+
+
 -----
+
 
 ## Speed Dating Experiment
 
