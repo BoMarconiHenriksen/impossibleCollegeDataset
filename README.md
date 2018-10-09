@@ -20,7 +20,13 @@ Hvordan ser en ufo ud?
 
 Hvor lang tid kunne de se ufoen?
 
+Link til csv fil.  
 https://github.com/planetsig/ufo-reports/blob/master/csv-data/ufo-scrubbed-geocoded-time-standardized.csv
+
+Link til dataset  
+https://www.kaggle.com/NUFORC/ufo-sightings#complete.csv  
+
+Link til dataset på github. Csv filen er taget fra github repositoryet. https://github.com/planetsig/ufo-reports  
 
 
 ## Speed Dating Experiment
@@ -42,10 +48,3 @@ Hvilken Erhverv har en speed dater oftest?
 Hvad mener folk er vigtigt i et forhold?
 
 Hvor kommer speed datere fra?
-
-https://data.world/annavmontoya/speed-dating-experiment/workspace/file?filename=Speed+Dating+Data.csv
-
-Link til dataset  
-https://www.kaggle.com/NUFORC/ufo-sightings#complete.csv  
-Link til dataset på github. Csv filen er taget fra github repositoryet. https://github.com/planetsig/ufo-reports  
-
